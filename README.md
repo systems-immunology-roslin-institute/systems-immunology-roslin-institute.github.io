@@ -4,7 +4,7 @@ Graphia is a powerful open-source visual analytics platform.  It has been design
 
 Graphia can create visual networks from any table of numeric or discrete data values and visualize the large and complex graph structures that result. In other words, it can be used for the analysis of data that records measurements from multiple entities over different states or time-points. This includes the majority of data produced by modern analysis platforms. It can also be used to visualise and analyse data that is already in the form of a network.
 
-![]({{site.baseurl}}/assets/components.png)
+![]({{site.baseurl}}/assets/tree graphs.png)
 
  
 

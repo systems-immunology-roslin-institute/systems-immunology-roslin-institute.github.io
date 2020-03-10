@@ -39,16 +39,16 @@ Graphia can create and visualise networks from any table of numeric or discrete 
 - Easy export and sharing of analysis results
 - Customizable to suit your data type or analysis needs
 
-![]({{site.baseurl}}/assets/quartercomponents.png)
+![]({{site.baseurl}}/assets/Taxonomy tree of birds - close up.png)
 
 
 # Benefits
 
-### Flexible workflows - _Many data types, many applications_
+### **Flexible workflows - _Many data types, many applications_**
 
 Graphia works with two broad classes of data; Network data where connections between entities are already known, and Numerical data where Graphia will construct a correlation graph of any table of numerical values. As an open-source project, if it doesn’t already do what you want it to, you can adapt it to your own needs.
 
-### Harnessing the power of visualisation - _Putting the analyst at the heart of the analysis_
+### **Harnessing the power of visualisation - _Putting the analyst at the heart of the analysis_**
 
 When data is visualised in an intuitive and interactive manner, it allows the analyst the tackle certain problems whose size and complexity make them otherwise intractable. Graphia couples advanced computational algorithms with a visualisation interface that makes full use of the cognitive abilities of humans, providing deeper understanding and better communication of data.
 

@@ -8,7 +8,7 @@ Graphia can create and visualise networks from any table of numeric or discrete 
 
  
 
-# Compatible Data Types
+# **Compatible Data Types**
 
 - **Biological sciences** – protein interaction data, transcriptomics, single cell analyses, proteomics, metabolomics, multiparameter flow cytometry, genotyping data, medical imaging data,
 - **Agri-tech** – data relating to the performance of animals, crops, farms, etc.
@@ -19,7 +19,7 @@ Graphia can create and visualise networks from any table of numeric or discrete 
 
  ![]({{site.baseurl}}/assets/UI of graphia.png)
 
-# Features
+# **Features**
 
 - Many input data formats 
 	- .csv, .tsv, .xls, .gml, .graphml, .json, .mat, .graphia
@@ -42,7 +42,7 @@ Graphia can create and visualise networks from any table of numeric or discrete 
 ![]({{site.baseurl}}/assets/Taxonomy tree of birds - close up.png)
 
 
-# Benefits
+# **Benefits**
 
 ### **Flexible workflows - _Many data types, many applications_**
 
@@ -52,21 +52,21 @@ Graphia works with two broad classes of data; Network data where connections bet
 
 When data is visualised in an intuitive and interactive manner, it allows the analyst the tackle certain problems whose size and complexity make them otherwise intractable. Graphia couples advanced computational algorithms with a visualisation interface that makes full use of the cognitive abilities of humans, providing deeper understanding and better communication of data.
 
-### Easy to use interface - _No programming skills required_
+### **Easy to use interface - _No programming skills required_**
 
 Graphia is designed to be usable by any analyst on any computational platform. Its intuitive graphical user interface means that powerful analytical algorithms and searches are just a click away! 
 
-### Scalability - _Think big!_
+### **Scalability - _Think big!_**
 
 The world is full of large and complex data and Graphia has been designed to work with it. Every aspect of the tool has been optimised for maximum speed and performance, so you don’t have to wait.
 
 
-### Data deconvolution - _Ultrafast pattern finding_
+### **Data deconvolution - _Ultrafast pattern finding_**
 
 Many analyses of complex data come down to a need to identify patterns and trends of interest. Graphia is designed to make this easy and quick by combining fast dynamic visualisations of data structure, with cluster analysis and the ability to explore the underlying data associated with the clusters observed.
 
  
-### Data integration and connectivity - _Extensible to fit your needs_
+### **Data integration and connectivity - _Extensible to fit your needs_**
 
 Graphia provides a platform where different data types can be merged and explored as a graph, where connections or data attributes are derived from more than one source.  A plugin architecture enables the user interface may be modified to suit a given data type, connect with predefined data sources or optimised for a given analytical process, allowing a user to tailor it to suit its specific analytical needs.
 

@@ -1,6 +1,6 @@
 theme: minima
-title: "Graphia - Clarity from Complexity"
+title: **"Graphia - Clarity from Complexity"**
 header_pages:
-  - download.md
+  - **download.md**
   - example-data.md
   - userguide.md

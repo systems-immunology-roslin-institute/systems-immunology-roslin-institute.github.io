@@ -8,18 +8,6 @@ Graphia can create and visualise networks from any table of numeric or discrete 
 ![]({{site.baseurl}}/assets/tree graphs.png)
 
  
-
-# **Applicable to the Analysis of Many Data Types from Many Sectors**
-
-- **Biological sciences** – protein interaction data, transcriptomics, single cell analyses, proteomics, metabolomics, multiparameter flow cytometry, genotyping data, medical imaging data,
-- **Agri-tech** – data relating to the performance of animals, crops, farms, etc.
-- **Fintech** – any numerical data relating to changing variables over time, e.g. share prices or categorical data relating to the attributes of commercial entities
-- **Social media** – network connections between individuals, companies, etc.
-- **Text mining** – count matrices of words found across many documents
-- **Questionnaire** – answers to questions are categorical (yes/no) or continuous (1-10)
-
-
- ![]({{site.baseurl}}/assets/UI of graphia.png)
  
 
 # **Features**
@@ -76,7 +64,19 @@ Graphia provides a platform where different data types can be merged and explore
 
 ![]({{site.baseurl}}/assets/Human adipose tissue GTEx data.png)
 
-## **About**
+# **Applicable to the Analysis of Many Data Types from Many Sectors**
+
+- **Biological sciences** – protein interaction data, transcriptomics, single cell analyses, proteomics, metabolomics, multiparameter flow cytometry, genotyping data, medical imaging data,
+- **Agri-tech** – data relating to the performance of animals, crops, farms, etc.
+- **Fintech** – any numerical data relating to changing variables over time, e.g. share prices or categorical data relating to the attributes of commercial entities
+- **Social media** – network connections between individuals, companies, etc.
+- **Text mining** – count matrices of words found across many documents
+- **Questionnaire** – answers to questions are categorical (yes/no) or continuous (1-10)
+
+
+ ![]({{site.baseurl}}/assets/UI of graphia.png)
+ 
+ ## **About**
 
 At Graphia we are passionate about graphs and visualisation as a powerful aid to data interpretation.  We want to be able to work with big data, to render it as a graph…..
 

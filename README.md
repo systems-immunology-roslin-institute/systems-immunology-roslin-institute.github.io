@@ -63,7 +63,7 @@ Graphia provides a platform where different data types can be merged and explore
 
 ![]({{site.baseurl}}/assets/Human adipose tissue GTEx data.png)
 
-# **Applicable to the Analysis of Many Data Types from Many Sectors**
+# **Many Data Types from Many Sectors**
 
 - **Biological sciences** – protein interaction data, transcriptomics, single cell analyses, proteomics, metabolomics, multiparameter flow cytometry, genotyping data, medical imaging data,
 - **Agri-tech** – data relating to the performance of animals, crops, farms, etc.
@@ -73,7 +73,7 @@ Graphia provides a platform where different data types can be merged and explore
 - **Questionnaire** – answers to questions are categorical (yes/no) or continuous (1-10)
 
 
- ![]({{site.baseurl}}/assets/UI of graphia.png)
+ ![]({{site.baseurl}}/assets/UI of graphia-2.png)
  
  ## **About**
 

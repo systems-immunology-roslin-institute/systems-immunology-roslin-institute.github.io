@@ -9,7 +9,7 @@ Graphia can create and visualise networks from any table of numeric or discrete 
 
  
 
-# **Compatible Data Types**
+# **Applicable to the Analysis of Many Data Types from Many Sectors**
 
 - **Biological sciences** – protein interaction data, transcriptomics, single cell analyses, proteomics, metabolomics, multiparameter flow cytometry, genotyping data, medical imaging data,
 - **Agri-tech** – data relating to the performance of animals, crops, farms, etc.

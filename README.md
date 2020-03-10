@@ -1,4 +1,4 @@
- <video autoplay src="{{site.baseurl}}/assets/banner_blur.webm" width="800" height="300" controls preload></video>
+ <video autoplay src="{{site.baseurl}}/assets/banner_blur.webm" width="800" height="300" controls autoplay loop></video>
 
 Graphia is a powerful open-source visual analytics platform designed and developed to aid the interprretation of large and complex datasets. 
 

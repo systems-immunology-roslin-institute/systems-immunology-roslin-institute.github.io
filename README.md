@@ -4,6 +4,7 @@ Graphia is a powerful open-source visual analytics platform designed and develop
 
 Graphia can create and visualise networks from any table of numeric or discrete data values and display the large and complex graph structures that result. It can also be used to visualise and analyse data that is already in the form of a network.
 
+
 ![]({{site.baseurl}}/assets/tree graphs.png)
 
  
@@ -17,7 +18,9 @@ Graphia can create and visualise networks from any table of numeric or discrete 
 - **Text mining** – count matrices of words found across many documents
 - **Questionnaire** – answers to questions are categorical (yes/no) or continuous (1-10)
 
+
  ![]({{site.baseurl}}/assets/UI of graphia.png)
+ 
 
 # **Features**
 
@@ -38,6 +41,7 @@ Graphia can create and visualise networks from any table of numeric or discrete 
 - Full range of options for network visualization, inspection and querying
 - Easy export and sharing of analysis results
 - Customizable to suit your data type or analysis needs
+
 
 ![]({{site.baseurl}}/assets/Taxonomy tree of birds - close up.png)
 
@@ -72,7 +76,7 @@ Graphia provides a platform where different data types can be merged and explore
 
 
 
-## About
+## **About**
 
 At Graphia we are passionate about graphs and visualisation as a powerful aid to data interpretation.  We want to be able to work with big data, to render it as a graph…..
 
@@ -88,7 +92,7 @@ Its open-source, its cool, its powerful and free for anyone to use.
 
  
 
-## Working with us
+## **Working with us**
 
 There are lots of new features and functionality we still wish to add to Graphia and we can envisage the need to integrate it into local data infrastructures. If you are interested to work with us to further improve Graphia we would love to hear from you.
 

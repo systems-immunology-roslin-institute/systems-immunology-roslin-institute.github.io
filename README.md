@@ -1,8 +1,8 @@
  <video autoplay src="{{site.baseurl}}/assets/banner_blur.webm" width="800" height="300" controls preload></video>
 
-Graphia is a powerful open-source visual analytics platform.  It has been designed and developed to address the growing challenge of interpreting large and complex datasets. 
+Graphia is a powerful open-source visual analytics platform designed and developed to aid the interprretation of large and complex datasets. 
 
-Graphia can create visual networks from any table of numeric or discrete data values and visualize the large and complex graph structures that result. In other words, it can be used for the analysis of data that records measurements from multiple entities over different states or time-points. This includes the majority of data produced by modern analysis platforms. It can also be used to visualise and analyse data that is already in the form of a network.
+Graphia can create and visualise networks from any table of numeric or discrete data values and display the large and complex graph structures that result. It can also be used to visualise and analyse data that is already in the form of a network.
 
 ![]({{site.baseurl}}/assets/tree graphs.png)
 

@@ -74,7 +74,7 @@ Many analyses of complex data come down to a need to identify patterns and trend
 
 Graphia provides a platform where different data types can be merged and explored as a graph, where connections or data attributes are derived from more than one source.  A plugin architecture enables the user interface may be modified to suit a given data type, connect with predefined data sources or optimised for a given analytical process, allowing a user to tailor it to suit its specific analytical needs.
 
- ![]({{site.baseurl}}/assets/Human adipose tissue GTEx data.png)
+![]({{site.baseurl}}/assets/Human adipose tissue GTEx data.png)
 
 ## **About**
 

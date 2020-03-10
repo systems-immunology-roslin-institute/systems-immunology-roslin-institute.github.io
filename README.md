@@ -17,7 +17,7 @@ Graphia can create and visualise networks from any table of numeric or discrete 
 - **Text mining** – count matrices of words found across many documents
 - **Questionnaire** – answers to questions are categorical (yes/no) or continuous (1-10)
 
- 
+ ![]({{site.baseurl}}/assets/UI of graphia.png)
 
 # Features
 

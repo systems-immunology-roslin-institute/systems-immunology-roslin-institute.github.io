@@ -10,7 +10,7 @@ Graphia can create and visualise networks from any table of numeric or discrete 
 
 # Compatible Data Types
 
-- **Biological** – protein interaction data, transcriptomics, single cell analyses, proteomics, metabolomics, multiparameter flow cytometry, genotyping data, medical imaging data,
+- **Biological sciences** – protein interaction data, transcriptomics, single cell analyses, proteomics, metabolomics, multiparameter flow cytometry, genotyping data, medical imaging data,
 - **Agri-tech** – data relating to the performance of animals, crops, farms, etc.
 - **Fintech** – any numerical data relating to changing variables over time, e.g. share prices or categorical data relating to the attributes of commercial entities
 - **Social media** – network connections between individuals, companies, etc.
@@ -21,17 +21,17 @@ Graphia can create and visualise networks from any table of numeric or discrete 
 
 # Features
 
-- Various input data formats 
-	- **.csv, .tsv, .xls, .gml, .graphml, .json, .mat, .graphia**
+- Many input data formats 
+	- .csv, .tsv, .xls, .gml, .graphml, .json, .mat, .graphia
 - Rapid calculation of correlation networks from primary data based on +ve and/or –ve correlations 
 	- Pearson, Spearman rank
 - Visualization of millions of data points and relationships
-- Interactive visualizations in **2D and 3D**
+- Interactive visualizations in 2D and 3D
 - Innovative node/edge attribute handling
 - Fast, tunable network clustering 
 	- MCL, Louvain
 - Built in network analytics 
-	- **PageRank, Betweeness, Eccentricity, Enrichment Analysis**
+	- PageRank, Betweeness, Eccentricity, Enrichment Analysis
 - Advanced network editing capabilities (filter on any attribute of nodes and edges)
 - Integration of data from different platforms and analyses
 - Customisable and simple to use web search

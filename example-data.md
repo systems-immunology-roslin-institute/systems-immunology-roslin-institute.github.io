@@ -1,5 +1,6 @@
 ---
 title: Example Datasets
+published: true
 ---
 
 Below are a variety of datasets that can be used to explore Graphia's functionality.
@@ -12,7 +13,7 @@ This is the data set that started it all off. It is a microarray analysis of gen
 
 ### **Nutritional Food Data** – Comma Seperated Value (.csv)
 
-![]({{ site.url }}/assets/nutrition.jpg)The figures included in tables on the side of food packaging contain only a fraction of the available nutrients that are commonly tested for. It is not uncommon for laboratories to test for over a 100 different nutrients in a given food product. This is a rich source of information, but when tested across many foodstuffs the amount of data becomes significant challenge to understand. Here we provide nutritional data from a wide variety of foods in a format ready for network analysis. The data comes from the UK Government’s Food Standards Agency website. After some data cleaning we have taken nutritional values for 948 foods and where available the results of 104 nutritional value scores. An analysis ready copy of these data are provided here.
+The figures included in tables on the side of food packaging contain only a fraction of the available nutrients that are commonly tested for. It is not uncommon for laboratories to test for over a 100 different nutrients in a given food product. This is a rich source of information, but when tested across many foodstuffs the amount of data becomes significant challenge to understand. Here we provide nutritional data from a wide variety of foods in a format ready for network analysis. The data comes from the UK Government’s Food Standards Agency website. After some data cleaning we have taken nutritional values for 948 foods and where available the results of 104 nutritional value scores. An analysis ready copy of these data are provided here.
 
 [Download Food contents]({{ site.url }}/datasets/Food_contents_2019.csv)
 

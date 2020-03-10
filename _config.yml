@@ -1,4 +1,4 @@
-theme: atom
+theme: minima
 title: "Graphia - Clarity from Complexity"
 header_pages:
   - download.md

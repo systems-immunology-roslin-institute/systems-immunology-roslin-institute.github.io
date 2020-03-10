@@ -75,7 +75,7 @@ Graphia provides a platform where different data types can be merged and explore
 
  ![]({{site.baseurl}}/assets/UI of graphia-2.png)
  
- ## **About**
+## **About**
 
 At Graphia we are passionate about graphs and visualisation as a powerful aid to data interpretation.  We want to be able to work with big data, to render it as a graph…..
 

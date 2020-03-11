@@ -96,8 +96,7 @@ If you use Graphia and would like to support the project we really need funding,
 
 Please help us to help you!
 
-Donate
-
+![]({{site.baseurl}}/assets/Donate.png)
 
 ## **Acknowledgements** ##
 

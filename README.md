@@ -95,7 +95,11 @@ Please contact: tom.freeman@roslin.ed.ac.uk
 If you use Graphia and would like to support the project we really need funding, as at the moment we have none. **No money = no support or development.** 
 
 Please help us to help you!
+
 Donate
 
 
-Please contact:
+## **Acknowledgements** ##
+
+We would like to thank all those who have helped us on our journey: previous members of the team - Seb Horsewell; investors in Kajeka – Les Gaw, David Hume, Paul Chowdhry, Paul Gregory, Old College Capital, Scottish Investment Bank; funders – Scottish Enterprise, and finally The University of Edinburgh and BBSRC. 
+

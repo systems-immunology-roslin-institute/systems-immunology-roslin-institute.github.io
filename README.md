@@ -77,22 +77,25 @@ Graphia provides a platform where different data types can be merged and explore
  
 ## **About**
 
-At Graphia we are passionate about graphs and visualisation as a powerful aid to data interpretation.  We want to be able to work with big data, to render it as a graph…..
+Graphia is designed and built by a small dedicated group of scientists working in Edinburgh, Scotland. We are passionate about graphs, visualisation and creating tools that aid the interpretation of complex data. 
 
-Behind the tool are a small dedicated group of individuals working to make an analysis platform 
+Our journey started 20 years ago, as we began to envisage how graphs could help us analyse the relationships between genes and proteins. For 15 years we developed our first software, BioLayout, a platform that taught us the power of graph-based analyses. This is still a great tool, but innate limitations in its design prevented us from developing it further, so in 2015 we set up a company, Kajeka Ltd, and started again.  Unfortunately, the company did not survive but Graphia, the main product of Kajeka did and we have now made it free and open source for all to enjoy. 
 
- 
+Current team: Tom Freeman and Tim Angus. 
 
-Graphia, designed and built by scientists working in Edinburgh, Scotland. 
+To reference Graphia, please cite:….
 
- 
-
-Its open-source, its cool, its powerful and free for anyone to use.
-
- 
 
 ## **Working with us**
 
-There are lots of new features and functionality we still wish to add to Graphia and we can envisage the need to integrate it into local data infrastructures. If you are interested to work with us to further improve Graphia we would love to hear from you.
+There are lots of new features and functionality we still wish to add to Graphia and envisage a desire from some to integrate it into local data infrastructures or web resources. If you are interested to work with us to further improve Graphia, or need our help in other ways, we would love to hear from you.
+
+Please contact: tom.freeman@roslin.ed.ac.uk
+
+If you use Graphia and would like to support the project we really need funding, as at the moment we have none. **No money = no support or development.** 
+
+Please help us to help you!
+Donate
+
 
 Please contact:

@@ -101,6 +101,6 @@ Donate
 
 ## **Acknowledgements** ##
 
-We would like to thank all those who have helped us on our journey: previous members of the team - Seb Horsewell; investors in Kajeka – Les Gaw, David Hume, Paul Chowdhry, Paul Gregory, Old College Capital, Scottish Investment Bank; funders – Scottish Enterprise, and finally The University of Edinburgh and BBSRC.
+We would like to thank all those who have helped us on our journey: previous members of the team - Seb Horsewell; investors in Kajeka – Les Gaw, David Hume, Paul Chowdhry, Paul Gregory, Old College Capital, Scottish Investment Bank; funders – Scottish Enterprise, and finally The Roslin Institue, University of Edinburgh and the BBSRC.
 
 ![]({{site.baseurl}}/assets/Logos.png)

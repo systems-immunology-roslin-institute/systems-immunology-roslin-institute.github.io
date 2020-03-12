@@ -80,6 +80,6 @@ A complex flower shape created in the .gml format provided by the Hachul graph s
 
 ### **Finance256** – BioLayout File (.layout)
 
-Example graph file provided by the University of Florida sparse matrix collection. This collection is used to test the layout capabilities of a variety of graph layout algorithms. The collection is designed to be particularly difficult for a stable optimum layout to be found. This graph is particularly large!
+Example graph file provided by the SuiteSparse Matrix Collection [formerly the University of Florida Sparse Matrix Collection] (https://sparse.tamu.edu/about). This collection is used to test the layout capabilities of a variety of graph layout algorithms. The collection is designed to be particularly difficult for a stable optimum layout to be found. This graph is particularly large!
 
 [Download Finance256]({{ site.url }}/datasets/finance256.layout)

@@ -28,7 +28,7 @@ These data describe the changing transcriptional landscape of individual cells s
 
 ### **Mammal Taxonomy Graph** – BioLayout File (.layout)
 
-Taxonomy is the science of classifying and categorising biological organisms within structured hierarchical groups. The resulting structure of taxonomic classification is a spanning tree. Using data from the US National Center for Biotechnology Information (NCBI) [Taxonomy database] (https://www.ncbi.nlm.nih.gov/taxonomy/) we have constructed a graph of mammals. Each taxonomic rank within the hierarchy is represented as a unique class within the graph and is given a unique colour within it.
+Taxonomy is the science of classifying and categorising biological organisms within structured hierarchical groups. The resulting structure of taxonomic classification is a spanning tree. Using data from the US National Center for Biotechnology Information (NCBI) [Taxonomy database](https://www.ncbi.nlm.nih.gov/taxonomy/) we have constructed a graph of mammals. Each taxonomic rank within the hierarchy is represented as a unique class within the graph and is given a unique colour within it.
 
 [Download Mammal Taxonomy Graph]({{ site.url }}/datasets/mammalTaxonomy.layout)
 

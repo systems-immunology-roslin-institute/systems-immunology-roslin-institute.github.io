@@ -9,24 +9,24 @@ Below are a number of example datasets from different sources and saved in a var
 
 ### **Mouse tissue expression atlas** – Numerical Data Matrix (.csv)
 
-This is the dataset that started it all off. It is a microarray analysis of gene expression across a range of different mouse tissues. It consists of over 36,000 measurements taken across 122 samples (61 tissue and cells types) of embryonic and adult mouse samples. It represents one of the first ‘big’ gene expression data sets in biology and was originally published by Su et al. back in 1994 [PNAS, 101: 6062](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC395923/). It was the frustrations of trying to analyse these data using conventional bioinformatics approaches that drove us to develop the network analysis approach incorporated into Graphia
+This is the dataset that started it all off. It is a microarray analysis of gene expression across 61 mouse tissues. It consists of over 36,000 measurements taken across 122 samples of embryonic and adult mouse samples. It represents one of the first ‘big’ gene expression datasets in biology and was originally published by Su _et al._ back in 1994 [PNAS, 101: 6062](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC395923/). It was the frustrations of trying to analyse these data using conventional bioinformatics approaches that drove us to develop the gene correlation network analysis approach incorporated into Graphia.
 
 [Download Mouse Tissue]({{ site.url }}/datasets/mouse_tissue_atlas.zip)
 
 ### **Mouse Gene Clusters** – Weighted Pairwise (.txt)
 
-A sub-graph derived from GNF mouse atlas and saved as a simple weighted edge file format consisting of node-edge relationships and edge weight (3 column format). It is graph of mouse genes and their coexpression relationships to each other. The underlying data is however not saved with the graph.
+A sub-graph derived from GNF mouse atlas (above) and saved as a simple weighted edge file format consisting of node-edge relationships and edge weight (3 column format). It is graph of mouse genes and their coexpression relationships to each other. The underlying data is however not saved with the graph.
 
 [Download Mouse Gene Clusters]({{ site.url }}/datasets/Weighted_pairwise-gene-clusters.txt)
 
 
 ### **Mouse Single cell Analysis** – Numerical Data Matrix (.csv)
 
-This data originates from a study that analysed global gene expression in hundreds of individual mouse cells, originating from the very earliest stages of embryonic life. As such the data describes the changing transcriptional landscape of individual cells from an egg to a ball of cells. Whilst relatively small for single cell data (only 268 cells), it is a very well-known dataset often used for training purposes and bench-marking new techniques. It also allows you to explore the potential of Graphia for analysis of single cell data. Data from: Deng Q., et al. Single-Cell RNA-Seq Reveals Dynamic, Random Monoallelic Gene Expression in Mammalian Cells. [Science 343, 193-196 (2014).](http://science.sciencemag.org/content/343/6167/193.long) [Download Mouse single cell data]({{ site.url }}/datasets/Deng_assay.csv)
+These data describe the changing transcriptional landscape of individual cells sampled from a fertilised mouse egg (zygote) to a ball of cells (blastocyst). Whilst relatively small for single cell data (only 268 cells), it is a very well-known dataset often used for training purposes and bench-marking new techniques. It also allows you to explore the potential of Graphia for analysis of single cell data. Data from: Deng Q., _et al_.  [Science 343, 193-196 (2014).](http://science.sciencemag.org/content/343/6167/193.long) [Download Mouse single cell data]({{ site.url }}/datasets/Deng_assay.csv)
 
 ### **Mammal Taxonomy Graph** – BioLayout File (.layout)
 
-Taxonomy is the science of classifying and categorising biological organisms within structured hierarchical groups. The resulting structure of taxonomic classification is a large spanning tree, which is ideal for 3D representation and exploration. Using data provided from the US National center for biotechnical information we have constructed a 3D graph of Mammalia within the animal kingdom. Each taxonomic rank within the hierarchy is represented as a unique class within the graph and is given a unique colour within it.
+Taxonomy is the science of classifying and categorising biological organisms within structured hierarchical groups. The resulting structure of taxonomic classification is a spanning tree. Using data from the US National Center for Biotechnology Information (NCBI) Taxonomy database we have constructed a graph of mammals. Each taxonomic rank within the hierarchy is represented as a unique class within the graph and is given a unique colour within it.
 
 [Download Mammal Taxonomy Graph]({{ site.url }}/datasets/mammalTaxonomy.layout)
 
@@ -35,7 +35,7 @@ Taxonomy is the science of classifying and categorising biological organisms wit
 
 ### **London Tube map** – Two column pairwise (.txt)
 
-Example of a simple Pairwise text file using two columns to represent connected tube stations in the London underground. The London tube map was originally the brainchild of electrical draughtsman, Harry Beck, who produced his imaginative and beautifully simple design back in 1933. It is now one of the most famous network diagrams in the world. Here we present the data used for it a connectivity map of stations and lines, as a simple node-edge relationship file for visualisation within Graphia.
+Pairwise text file using two columns to represent connected tube stations in the London underground. The London tube map was originally designed by electrical draughtsman, Harry Beck, in 1933, is now one of the most famous network diagrams in the world. Here we present the data used for it a connectivity map of stations and lines, as a simple node-edge relationship file for visualisation within Graphia.
 
 [Download London Tube Pairwise]({{ site.url }}/datasets/Simple_pairwise-London_tube_map.txt)
 
@@ -48,8 +48,9 @@ It is not uncommon for laboratories to test for over a 100 different nutrients i
 
 ### **UK Forename Data** – Numerical Correlation Data (.csv)
 
-Network analysis of the social and demographic influences on name choice within the UK (1838-2016). Chosen names reflect changes in societal values, personal tastes and cultural diversity. Patterns in name usage can be easily shown on a case by case basis, by plotting the rise and fall in their popularity over time. However, individual name choices are not made in isolation and trends in naming are better understood as group-level phenomena. In this study researchers used network analysis to examine naming records in order to explore the influences on name choices within the UK over the last 170 years. Using a large representative sample of approximately 22 million forenames from England and Wales given between 1838 and 2014, along with a complete population sample of births registered between 1996 and 2016, they demonstrated how trends in name usage can be visualised using Graphia software. Data from: Bush S.J., Powell-Smith A, Freeman TC (2018) Network analysis of the social and demographic influences on name choice within the UK (1838-2016). [PLoS ONE 13(10): e0205759.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205759) [Download Historical UK forename data]({{ site.url }}/datasets/UK_forenames_1838-2014.csv)
+In this study, Bush S.J., Powell-Smith A, Freeman TC (2018) Network analysis of the social and demographic influences on name choice within the UK (1838-2016). [PLoS ONE 13(10): e0205759.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205759), researchers used network analysis to examine naming records in order to explore the influences on name choices within the UK over the last 170 years. Using a large representative sample of approximately 22 million forenames from England and Wales given between 1838 and 2014, along with a complete population sample of births registered between 1996 and 2016, they demonstrated how trends in name usage can be visualised using Graphia software. 
 
+[Download Historical UK forename data]({{ site.url }}/datasets/UK_forenames_1838-2014.csv)
 
 ### **2008-2009 NASDAQ Shares** – Numerical data (.csv)
 

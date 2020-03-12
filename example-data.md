@@ -3,13 +3,13 @@ title: Example Datasets
 published: true
 ---
 
-Below are a number of example datasets from different sources and saved in a variety of supported formats that can be used to explore Graphia's functionality.
+Below are a number of example datasets from different sources and saved in a variety of supported formats that can be used to explore Graphia's functionality. If these load and your data doesn't you most likel have an issue with the file format.
 
 ## **Biology**
 
 ### **Mouse tissue expression atlas** – Numerical Data Matrix (.csv)
 
-This is the data set that started it all off. It is a microarray analysis of gene expression across a range of different mouse tissues. It consists of over 36,000 measurements taken across 122 samples (61 tissue and cells types) of embryonic and adult mouse samples. It represents one of the first ‘big’ gene expression data sets in biology and was originally published by Su et al. back in 1994 [PNAS, 101: 6062](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC395923/). It was the frustrations of trying to analyse these data using conventional bioinformatics approaches that drove us to develop the network analysis approach incorporated into Graphia
+This is the dataset that started it all off. It is a microarray analysis of gene expression across a range of different mouse tissues. It consists of over 36,000 measurements taken across 122 samples (61 tissue and cells types) of embryonic and adult mouse samples. It represents one of the first ‘big’ gene expression data sets in biology and was originally published by Su et al. back in 1994 [PNAS, 101: 6062](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC395923/). It was the frustrations of trying to analyse these data using conventional bioinformatics approaches that drove us to develop the network analysis approach incorporated into Graphia
 
 [Download Mouse Tissue]({{ site.url }}/datasets/mouse_tissue_atlas.zip)
 

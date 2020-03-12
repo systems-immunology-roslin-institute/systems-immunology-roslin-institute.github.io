@@ -22,11 +22,13 @@ A sub-graph derived from GNF mouse atlas (above) and saved as a simple weighted 
 
 ### **Mouse Single cell Analysis** – Numerical Data Matrix (.csv)
 
-These data describe the changing transcriptional landscape of individual cells sampled from a fertilised mouse egg (zygote) to a ball of cells (blastocyst). Whilst relatively small for single cell data (only 268 cells), it is a very well-known dataset often used for training purposes and bench-marking new techniques. It also allows you to explore the potential of Graphia for analysis of single cell data. Data from: Deng Q., _et al_.  [Science 343, 193-196 (2014).](http://science.sciencemag.org/content/343/6167/193.long) [Download Mouse single cell data]({{ site.url }}/datasets/Deng_assay.csv)
+These data describe the changing transcriptional landscape of individual cells sampled from a fertilised mouse egg (zygote) to a ball of cells (blastocyst). Whilst relatively small for single cell data (only 268 cells), it is a very well-known dataset often used for training purposes and bench-marking new techniques. It also allows you to explore the potential of Graphia for analysis of single cell data. Data from: Deng Q., _et al_.  [Science 343, 193-196 (2014).](http://science.sciencemag.org/content/343/6167/193.long)
+
+[Download Mouse single cell data]({{ site.url }}/datasets/Deng_assay.csv)
 
 ### **Mammal Taxonomy Graph** – BioLayout File (.layout)
 
-Taxonomy is the science of classifying and categorising biological organisms within structured hierarchical groups. The resulting structure of taxonomic classification is a spanning tree. Using data from the US National Center for Biotechnology Information (NCBI) Taxonomy database we have constructed a graph of mammals. Each taxonomic rank within the hierarchy is represented as a unique class within the graph and is given a unique colour within it.
+Taxonomy is the science of classifying and categorising biological organisms within structured hierarchical groups. The resulting structure of taxonomic classification is a spanning tree. Using data from the US National Center for Biotechnology Information (NCBI) [Taxonomy database] (https://www.ncbi.nlm.nih.gov/taxonomy/) we have constructed a graph of mammals. Each taxonomic rank within the hierarchy is represented as a unique class within the graph and is given a unique colour within it.
 
 [Download Mammal Taxonomy Graph]({{ site.url }}/datasets/mammalTaxonomy.layout)
 
